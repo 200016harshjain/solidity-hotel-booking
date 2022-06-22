@@ -11,5 +11,7 @@ Trying to build a hotel booking mechanism using smart contracts. I'm going to be
   - Maintain a list of (current) occupant of the rooms at any given times
   - Update the statistics once a booking is made and booking is completed.
 
+### Generic Feature
+Allowing only one booking per address at this point. 
 
 Note : Would advise you to not copy this code into a production environment, this is just me learning and there have been no security checks on this code.
